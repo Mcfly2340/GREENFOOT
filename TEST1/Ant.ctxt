@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Ant
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Ant\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ AmIDead()
+comment4.params=
+comment4.target=boolean\ foundTumbleweed()
+comment5.params=
+comment5.target=boolean\ foundPlant()
+comment6.params=
+comment6.target=void\ movement()
+comment7.params=
+comment7.target=void\ dead()
+numComments=8

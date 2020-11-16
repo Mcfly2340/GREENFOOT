@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Particle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Particle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Particle()
+comment1.text=\r\n\ Create\ a\ new\ particle.\ The\ motion\ velocity\ (dx/dy)\ is\ initialised\ randomly,\ so\ that\ each\ new\ particle\ will\ have\ a\ random\ movement\ direction.\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ When\ we\ are\ first\ added\ to\ the\ world,\ get\ the\ x/y\ coordinates\ and\ store\ them\ in\ doubles,\ so\ that\ we\ can\ do\ more\ precise\ (and\ smoother)\ motion\ animation.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Move\ the\ particle\ according\ to\ its\ velocity\ and\ direction\ and\ apply\ gravity.\r\n
+comment4.params=
+comment4.target=double\ getRandomNumber()
+numComments=5
